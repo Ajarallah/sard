@@ -1,0 +1,12 @@
+{
+  "name": "sard",
+  "owner": { "name": "ajarallah" },
+  "plugins": [
+    {
+      "name": "sard",
+      "source": "./plugins/sard",
+      "description": "Narrative step-by-step explanations (سرد متسلسل) from the foundation to the final meaning, in the user's language.",
+      "version": "1.0.0"
+    }
+  ]
+}
