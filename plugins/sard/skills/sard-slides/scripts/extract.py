@@ -7,7 +7,7 @@ Renders every slide to PNG when possible (PDF: PyMuPDF; PPTX: LibreOffice).
 
 usage: extract.py DECK [-o OUTDIR]      |      extract.py --self-check
 """
-import json, os, posixpath, shutil, subprocess, sys, tempfile, zipfile
+import json, os, pathlib, posixpath, shutil, subprocess, sys, tempfile, zipfile
 import xml.etree.ElementTree as ET
 
 try:
@@ -126,11 +126,22 @@ def pptx_to_pdf(path, outdir):
     mac = "/Applications/LibreOffice.app/Contents/MacOS/soffice"
     soffice = shutil.which("soffice") or shutil.which("libreoffice") or (mac if os.path.exists(mac) else None)
     if not soffice:
-        return None
-    subprocess.run([soffice, "--headless", "--convert-to", "pdf", "--outdir", outdir, path],
-                   check=True, capture_output=True, timeout=600)
+        return None, "LibreOffice not found"
+    # A private profile, so an open LibreOffice window cannot lock the conversion.
+    profile = tempfile.mkdtemp(prefix="sard-lo-")
+    try:
+        r = subprocess.run([soffice, "-env:UserInstallation=" + pathlib.Path(profile).as_uri(), "--headless",
+                            "--convert-to", "pdf", "--outdir", outdir, path],
+                           capture_output=True, text=True, timeout=600)
+    except subprocess.TimeoutExpired:
+        return None, "LibreOffice timed out"
+    finally:
+        shutil.rmtree(profile, ignore_errors=True)
     pdf = os.path.join(outdir, os.path.splitext(os.path.basename(path))[0] + ".pdf")
-    return pdf if os.path.exists(pdf) else None
+    if r.returncode or not os.path.exists(pdf):
+        lines = [l for l in (r.stderr + r.stdout).splitlines() if l.strip() and not l.startswith("Fontconfig")]
+        return None, f"LibreOffice could not convert the deck ({lines[-1][:200] if lines else f'exit {r.returncode}'})"
+    return pdf, None
 
 
 def render(pdf, imgdir, dpi=150):
@@ -149,9 +160,9 @@ def run(path, outdir):
     ext = path.lower().rsplit(".", 1)[-1]
     if ext == "pptx":
         slides = extract_pptx(path)
-        pdf = pptx_to_pdf(path, outdir)
+        pdf, why = pptx_to_pdf(path, outdir)
         if not pdf:
-            warnings.append("LibreOffice not found, slides not rendered. Export the deck to PDF "
+            warnings.append(why + ", slides not rendered. Export the deck to PDF "
                             "(PowerPoint/Keynote: File > Export > PDF) and run this on the PDF too, "
                             "to read handwriting and diagrams. Notes and comments above are complete.")
     elif ext == "pdf":
