@@ -1,12 +1,17 @@
 {
   "name": "sard",
-  "owner": { "name": "ajarallah" },
+  "owner": {
+    "name": "ajarallah"
+  },
+  "metadata": {
+    "description": "سَرْد: narrative step-by-step explanations for texts, slides, books and articles."
+  },
   "plugins": [
     {
       "name": "sard",
       "source": "./plugins/sard",
-      "description": "Narrative step-by-step explanations (سرد متسلسل) from the foundation to the final meaning, in the user's language.",
-      "version": "1.0.0"
+      "description": "Narrative step-by-step explanations (سرد متسلسل) from the foundation to the final meaning, in the user's language. Commands for slides with notes and handwriting, roots, whole books, articles, and slide decks.",
+      "version": "2.0.0"
     }
   ]
 }

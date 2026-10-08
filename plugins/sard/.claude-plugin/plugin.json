@@ -1,6 +1,8 @@
 {
   "name": "sard",
-  "version": "1.0.0",
-  "description": "Narrative step-by-step explanations (سرد متسلسل) from the foundation to the final meaning, in the user's language.",
-  "author": { "name": "ajarallah" }
+  "version": "2.0.0",
+  "description": "Narrative step-by-step explanations (سرد متسلسل) from the foundation to the final meaning, in the user's language. Commands for slides with notes and handwriting, roots, whole books, articles, and slide decks.",
+  "author": {
+    "name": "ajarallah"
+  }
 }
