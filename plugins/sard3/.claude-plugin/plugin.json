@@ -1,0 +1,8 @@
+{
+  "name": "sard3",
+  "version": "3.7.0",
+  "description": "Narrative explanations (سرد) 3.7: plain contemporary language, an explainer's voice that talks to the reader, honest connectors, functional Arabic punctuation and source fidelity; adds analysis, evaluation, comparison (sard-compare) and line-by-line commentary (sard-sharh).",
+  "author": {
+    "name": "ajarallah"
+  }
+}

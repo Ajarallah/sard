@@ -12,6 +12,12 @@
       "source": "./plugins/sard",
       "description": "Narrative step-by-step explanations (سرد متسلسل) from the foundation to the final meaning, in the user's language. Commands for slides with notes and handwriting, roots, whole books, articles, and slide decks.",
       "version": "2.0.0"
+    },
+    {
+      "name": "sard3",
+      "source": "./plugins/sard3",
+      "description": "Narrative explanations (سرد) 3.7: plain contemporary language, an explainer's voice that talks to the reader, honest connectors, functional Arabic punctuation and source fidelity; adds analysis, evaluation, comparison (sard-compare) and line-by-line commentary (sard-sharh).",
+      "version": "3.7.0"
     }
   ]
 }
