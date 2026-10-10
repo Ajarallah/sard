@@ -1,6 +1,7 @@
 ---
 name: sard
 description: Explain a text, chapter, concept, idea, argument or lecture as a connected narrative (سرد متسلسل) from the foundation to the final meaning, in plain contemporary language and in the voice of an explainer who talks to the reader, calibrated to the reader's level and faithful to the source. Also analyzes an argument, evaluates it, traces causes or weighs a decision when asked. Use for explanation requests such as «ما فهمت»، «وضّح لي»، «ما الرسالة؟»، «ما مفهوم…»، «اشرح بالسرد», "explain this", or /sard.
+argument-hint: "[معي خطوة خطوة | اختبرني | هل هو صحيح؟ | من الأساس] النص أو الملف"
 ---
 
 # سَرْد: الشرح السردي المتسلسل
@@ -13,6 +14,15 @@ description: Explain a text, chapter, concept, idea, argument or lecture as a co
 ## متى يُستعمل
 - عند طلب شرح فصل أو نص أو فكرة أو مفهوم أو حجة أو محاضرة: «ما فهمت»، «وضّح لي»، «ما الرسالة؟»، «ما معنى…»، «اشرح بالسرد»، أو `/sard`.
 - هو الأسلوب الافتراضي لشرح ما يقرؤه المستخدم، ولتحليل ما يطلب تحليله منه.
+
+## الخيارات
+تظهر للمستخدم بجانب اسم المهارة أربعة خيارات، فإن بدأ طلبه بواحد منها فاعمل بما يقابله، ثم بقواعد هذا الملف كلها:
+- **«معي خطوة خطوة»:** نمط «خطوة بخطوة» في «الأنماط»: محطة واحدة في كل رد، وقبل رابطها سؤال توقّع.
+- **«اختبرني»:** اشرح كاملًا، ثم اختم بـ«اختبر مسارك» كما في نمط «المذاكرة».
+- **«هل هو صحيح؟»:** الوجهة تقييم: اعرض الحجة كما يرضاها صاحبها، ثم احكم عليها بتسلسل `references/critique.md`، وقل درجة ثقتك.
+- **«من الأساس»:** اتبع أمر `sard-roots`، فترجع إلى أصل الفكرة وتاريخها قبل شرحها.
+
+وما بعد الخيار هو النص أو السؤال أو الملف. وإن لم يبدأ الطلب بخيار فالأصل الشرح، وتُستنتج الوجهة من كلام المستخدم كما في «التحضير».
 
 ## التوجيه
 هذه المهارة نواة عائلة أوامر سرد: قواعد الكتابة هنا، وكل أمر آخر يضيف طريقة جمع المادة أو تشكيل الناتج. إذا كان المدخل واحدًا مما يلي فاتبع ملف الأمر المقابل (في المجلد المجاور `../<الأمر>/SKILL.md`)، ثم اكتب بقواعد هذا الملف:
