@@ -1,0 +1,281 @@
+# فهرس مصادر بحث تطوير سرد
+
+جُمعت في 2026-10-09 عبر ستة مسارات بحث متوازية. كل رابط فُحص آليًا بطلب HTTP في اليوم نفسه:
+- ✓ يعمل: **218**
+- ⊘ موجود لكنه يحجب الطلبات الآلية أو تعذّر الوصول إليه وقت الفحص (403، 429، مهلة...): **19**
+- ✗ أعاد 404 فلا يُحتسب: **5**
+- مكرر بين المسارات (يظهر مرة واحدة): **11**
+
+المصادر الفريدة المحتسبة (✓ و⊘): **237**. وبالعدّ الأشد صرامة (✓ فقط): **218**.
+ملاحظة أمانة: بعض روابط Reddit قُرئت عبر مرايا أو لقطات أرشيفية لأن Reddit يحجب أدوات البحث، وبعضها لم يُقرأ إلا عنوانه أو مقتطفه، وهي معلَّمة في ملف المسار الرابع.
+
+## علم التعلّم وفهم الشرح ([track-1-learning-science.md](track-1-learning-science.md))
+
+- [1.1] [Why instructional explanations often do not work (Wittwer & Renkl 2008, Educational Psychologist 43), practitioner summary](https://theelearningcoach.com/elearning_design/instructional-explanations/) — blog — ✓
+- [1.2] [Learning from Instructional Explanations: Effects of Prompts Based on the Active-Constructive-Interactive Framework](https://pmc.ncbi.nlm.nih.gov/articles/PMC4390325/) — paper — ✓
+- [1.3] [Using a diagnosis-based approach to individualize instructional explanations (Wittwer, Nückles & Renkl 2010)](https://link.springer.com/doi/10.1007/s10648-010-9118-7) — paper — ✓
+- [1.4] [The ICAP Framework (Chi & Wylie 2014)](https://chilab.asu.edu/sites/default/files/lcl/chiwylie2014icap_2.pdf) — paper — ✓
+- [1.5] [Bisra et al. 2018, Inducing self-explanation: a meta-analysis](https://summit.sfu.ca/item/34322) — paper — ✓
+- [1.6] [Dunlosky et al. 2013, Improving students' learning with effective learning techniques](https://www.readingrockets.org/resources/resource-library/improving-students-learning-effective-learning-techniques-promising) — paper — ⊘ (403)
+- [1.7] [Cognitive Load Theory: Advances in Research on Worked Examples, Animations, and Cognitive Load Measurement](https://research-portal.uu.nl/en/publications/cognitive-load-theory-advances-in-research-on-worked-examples-ani/) — paper — ✓
+- [1.8] [Worked-example effect](https://en.wikipedia.org/wiki/Worked-example_effect) — encyclopedia — ✓
+- [1.9] [Renkl, Learning from worked-out examples: the transition from instructional explanations to self-explanation prompts](https://www.researchgate.net/profile/Alexander-Renkl/publication/252065774_Learning_from_worked-out_examples_The_transition_from_instructional_explanations_to_self-explanation_prompts/links/0c96053bbcc1ac1622000000/Learning-from-worked-out-examples-The-transition-from-instructional-explanations-to-self-explanation-prompts.pdf) — paper — ⊘ (403)
+- [1.10] [Worked and faded examples (MIT Open Learning)](https://openlearning.mit.edu/mit-faculty/research-based-learning-findings/worked-and-faded-examples) — docs — ✓
+- [1.11] [Kalyuga 2007, Expertise reversal effect and its implications for learner-tailored instruction](https://www.uky.edu/~gmswan3/EDC608/Kalyuga2007_Article_ExpertiseReversalEffectAndItsI.pdf) — paper — ✓
+- [1.12] [How less clarity could improve active processing (on McNamara et al. 1996, "Are good texts always better?")](https://editingresearch.byu.edu/2022/11/23/how-less-clarity-could-improve-active-processing) — blog — ✓
+- [1.13] [Kirschner, Sweller & Clark 2006, Why minimal guidance during instruction does not work](https://www.davidlewisphd.com/courses/EDD8121/readings/2006-Kirschner_et_al.pdf) — paper — ✓
+- [1.14] [Students who productively fail learn more (on Sinha & Kapur 2021 meta-analysis)](https://www.weforum.org/stories/2021/09/students-who-productively-fail-learn-more/) — news — ⊘ (403)
+- [1.15] [Subsumption Theory (Ausubel)](https://www.instructionaldesign.org/theories/subsumption-theory/) — blog — ✓
+- [1.16] [Thirty years after Ausubel: an updated meta-analysis of advance organizer research](https://www.ideals.illinois.edu/items/20405) — paper — ✓
+- [1.17] [Bransford & Johnson 1972, Contextual prerequisites for understanding](https://paperguide.ai/papers/06070657-76e0-4355-b53c-5dfe9979bf2f/) — paper — ⊘ (503)
+- [1.18] [Frederic Bartlett ("War of the Ghosts", schema)](https://en.wikipedia.org/wiki/Frederic_Bartlett) — encyclopedia — ✓
+- [1.19] [Refutation texts and Posner et al.'s Conceptual Change Model (Frontiers in Education, 2025)](https://www.frontiersin.org/articles/10.3389/feduc.2025.1472385/full) — paper — ✓
+- [1.20] [The effectiveness of refutation text in confronting scientific misconceptions: a meta-analysis](https://experts.nau.edu/en/publications/the-effectiveness-of-refutation-text-in-confronting-scientific-mi/fingerprints/) — paper — ✓
+- [1.21] [Dedre Gentner (structure-mapping theory)](https://en.wikipedia.org/wiki/Dedre_Gentner) — encyclopedia — ✓
+- [1.22] [Richland, Zur & Holyoak 2007, Cognitive supports for analogies in the mathematics classroom](https://pubmed.ncbi.nlm.nih.gov/17525320) — paper — ✓
+- [1.23] [Teaching with Analogies (Glynn, Science Teaching sourcebook)](https://www.csun.edu/~vceed002/books/sourcebook/chapters/10-analogies/teaching-analogies.html) — book — ✓
+- [1.24] [Fyfe, McNeil, Son & Goldstone 2014, Concreteness fading in mathematics and science instruction: a systematic review](https://pc.cogs.indiana.edu/?p=885) — paper — ✓
+- [1.25] [Concreteness Fading: A Method To Achieve Transfer (The Learning Scientists)](https://learningscientists.org/blog/2018/2/1-1) — blog — ✓
+- [1.26] [Dual-coding theory](https://en.wikipedia.org/wiki/Dual-coding_theory) — encyclopedia — ✓
+- [1.27] [Mayer's 12 Principles of Multimedia Learning](https://lucidea.com/blog/mayers-12-principles-of-multimedia-learning) — blog — ✓
+- [1.28] [Signaling in Training (umbrella summary of signaling meta-analyses, incl. Schneider et al. 2018)](https://qic-wd.org/node/672) — paper — ✓
+- [1.29] [Sundararajan & Adesope 2020, Keep it coherent: seductive details meta-analysis](https://www.e-teaching.org/materialien/literatur/sundararajan-adesope-2020) — paper — ✓
+- [1.30] [Test-enhanced learning: using retrieval practice to help students learn (Vanderbilt CFT, on Roediger & Karpicke 2006)](https://cft.vanderbilt.edu/?p=22452) — blog — ✓
+- [1.31] [Cepeda et al. 2006, Distributed practice in verbal recall tasks: a review and quantitative synthesis](https://pubmed.ncbi.nlm.nih.gov/16719566/) — paper — ✓
+- [1.32] [RetrievalPractice.org](https://www.retrievalpractice.org/retrievalpractice/) — blog — ✓
+- [1.33] [Test first, learn later: the power of pretesting (Psychonomic Society)](https://featuredcontent.psychonomic.org/test-first-learn-later-the-power-of-pretesting-to-enhance-learning/) — blog — ✓
+- [1.34] [Bjork & Bjork 2011, Making things hard on yourself, but in a good way: desirable difficulties](https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf) — paper — ✓
+- [1.35] [Illusion of explanatory depth (Rozenblit & Keil 2002)](https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth) — encyclopedia — ✓
+- [1.36] [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge) — encyclopedia — ✓
+- [1.37] [The Feynman Technique: Learning Through Explanation](https://thefiltered.substack.com/p/feynman-technique) — blog — ✗ (404)
+- [1.38] [Revised Bloom's Taxonomy (Iowa State CELT)](https://www.celt.iastate.edu/teaching/effective-practice/revised-blooms-taxonomy/) — docs — ✗ (404)
+- [1.39] [SOLO taxonomy description (CUHK)](https://www.cuhk.edu.hk/policy/assessment/SOLO-description.pdf) — docs — ✓
+- [1.40] [Threshold Concepts Guide (University of Calgary, Taylor Institute)](https://taylorinstitute.ucalgary.ca/sites/default/files/TI%20Guides/Threshold_Concepts_Guide.pdf) — docs — ✓
+- [1.41] [Jerome Bruner on the scaffolding of learning](https://www.teachthought.com/learning/jerome-bruner/) — blog — ✓
+- [1.42] [A brief guide to Rosenshine's 10 Principles of Instruction](https://www.innerdrive.co.uk/blog/guide-rosenshine-10-principles/) — blog — ✓
+- [1.43] [The Science of Learning (Deans for Impact, 2nd ed.)](https://www.deansforimpact.org/files/assets/thescienceoflearning2nded.pdf) — docs — ✓
+- [1.44] [Mar, Li, Nguyen & Ta 2021, Memory and comprehension of narrative versus expository texts: a meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8219577/) — paper — ✓
+- [1.45] [Ask the Cognitive Scientist: The Privileged Status of Story (Willingham 2004)](https://www.aft.org/periodical/american-educator/summer-2004/ask-cognitive-scientist) — news — ✓
+- [1.46] [Role of Causal Relationships in the Story Comprehension of Children (causal-network line, Trabasso and colleagues)](https://www.ideals.illinois.edu/items/72079) — paper — ✓
+- [1.47] [Comprehension Effects of Connectives Across Texts, Readers, and Coherence Relations](https://research-portal.uu.nl/en/publications/comprehension-effects-of-connectives-across-texts-readers-and-coh/) — paper — ✓
+- [1.48] [Sanders & Noordman 2000, The role of coherence relations and their linguistic markers in text processing](https://repository.tilburguniversity.edu/items/35f9dadc-ca9c-4904-b962-3fcdd68cd1ba) — paper — ✓
+- [1.49] [Williams & Lombrozo 2010, The role of explanation in discovery and generalization](https://cognition.princeton.edu/sites/default/files/cognition/files/williams_et_al-2010-cognitive_science.pdf) — paper — ✓
+- [1.50] [Lombrozo 2007, Simplicity and probability in causal explanation](https://pubmed.ncbi.nlm.nih.gov/17097080/) — paper — ✓
+- [1.51] [Deconstructing the seductive allure of neuroscience explanations (Judgment and Decision Making, 2015)](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737) — paper — ✓
+
+## السرد والتماسك والكتابة الشارحة ([track-2-narrative-writing.md](track-2-narrative-writing.md))
+
+- [2.1] [Jerome Bruner, Actual Minds, Possible Worlds: the two modes of thought (The Marginalian)](https://www.themarginalian.org/2016/01/20/jerome-bruner-actual-minds-possible-worlds-storytelling/) — blog — ✓
+- [2.2] Daniel Willingham, "Ask the Cognitive Scientist: The Privileged Status of Story" (American Educator, Summer 2004) — مكرر في [1.45]
+- [2.3] Mar, Li, Nguyen & Ta (2021), "Memory and comprehension of narrative versus expository texts: A meta-analysis" — مكرر في [1.44]
+- [2.4] [Mensink, Kendeou & Rapp (2021), "Do different kinds of introductions influence comprehension and memory for scientific explanations?"](https://experts.umn.edu/en/publications/do-different-kinds-of-introductions-influence-comprehension-and-m/) — paper — ✓
+- [2.5] [Dahlstrom (2014), "Using narratives and storytelling to communicate science with nonexpert audiences" (PNAS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4183170) — paper — ✓
+- [2.6] [Stanford Encyclopedia of Philosophy, "Understanding" (Grimm)](https://plato.stanford.edu/entries/understanding/) — encyclopedia — ✓
+- [2.7] [Stanford Encyclopedia of Philosophy, "Philosophy of History"](https://plato.stanford.edu/entries/history/) — encyclopedia — ✓
+- [2.8] [Stanford Encyclopedia of Philosophy, "Causal Approaches to Scientific Explanation" (Woodward & Ross)](https://plato.stanford.edu/entries/causal-explanation-science/) — encyclopedia — ✓
+- [2.9] ["What did Danto show?" (on Arthur Danto's narrative sentences)](https://philsci-archive.pitt.edu/29862/1/Danto%2011.docx) — paper — ✓
+- [2.10] [Rhetorical Structure Theory (Wikipedia)](https://en.wikipedia.org/wiki/Rhetorical_structure_theory) — encyclopedia — ✓
+- [2.11] [Sanders, Spooren & Noordman (1992), "Toward a taxonomy of coherence relations"](https://dspace.library.uu.nl/handle/1874/295270) — paper — ✓
+- [2.12] [Degand & Sanders (2002), "The impact of relational markers on expository text comprehension in L1 and L2"](https://research-portal.uu.nl/en/publications/the-impact-of-relational-markers-on-expository-text-comprehension/) — paper — ✓
+- [2.13] ["Interaction between connectives and previous knowledge in the processing of causal coherence" (CLAC)](https://revistas.ucm.es/index.php/CLAC/en/article/view/62504) — paper — ✓
+- [2.14] McNamara et al. (1996) reverse cohesion effect, summarized by BYU Editing Research — مكرر في [1.12]
+- [2.15] [Kintsch (2005), "An overview of top-down and bottom-up effects in comprehension: The CI perspective"](https://condor.depaul.edu/~dallbrit/extra/hon207/readings/kintsch-2005-overview-of-top-down-and-bottom-up-effects-CI.pdf) — paper — ✓
+- [2.16] ["Children's and adults' memory for television stories: the role of causal factors" (Univ. of Kentucky scholars record)](https://scholars.uky.edu/en/publications/childrens-and-adults-memory-for-television-stories-the-role-of-ca/) — paper — ✓
+- [2.17] [Lorch et al., "Signaling topic structure via headings or preview sentences"](https://scholars.uky.edu/en/publications/signaling-topic-structure-via-headings-or-preview-sentences/) — paper — ✓
+- [2.18] "Thirty years after Ausubel: An updated meta-analysis of advance organizer research" — مكرر في [1.16]
+- [2.19] ["Cut It Out: Learning with Seductive Details" (The Learning Scientists)](https://www.learningscientists.org/blog/2019/6/20-1) — blog — ✓
+- [2.20] ["The Curse of Knowledge: Pinker Describes a Key Cause of Bad Writing" (APS Observer)](https://www.psychologicalscience.org/observer/the-curse-of-knowledge-pinker-describes-a-key-cause-of-bad-writing) — news — ✓
+- [2.21] Curse of knowledge (Wikipedia) — مكرر في [1.36]
+- [2.22] [Review of Made to Stick (Heath & Heath), Stanford Social Innovation Review](https://ssir.org/books/reviews/entry/review_made_to_stick) — book — ✓
+- [2.23] [SCQA Logic (Minto's Pyramid Principle), ThinkInsights](https://thinkinsights.net/strategy/scqa-logic) — blog — ✓
+- [2.24] [Inverted pyramid (journalism), Wikipedia](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)) — encyclopedia — ✓
+- [2.25] [SESYNC Communications Toolkit: And, But, Therefore statement (Randy Olson's ABT)](https://www.sesync.org/resources/communications-toolkit-and-therefore-statement) — docs — ✓
+- [2.26] [Olah & Carter, "Research Debt" (Distill, 2017)](https://distill.pub/2017/research-debt/) — blog — ✓
+- [2.27] [Paul Graham, "How to Write Usefully"](https://paulgraham.com/useful.html) — blog — ✓
+- [2.28] [Paul Graham, "Putting Ideas into Words"](https://paulgraham.com/words.html) — blog — ✓
+- [2.29] [Columbia Journalism Review on Vox's explanatory-journalism design (card stacks)](https://www.cjr.org/?p=100714) — news — ✓
+- [2.30] [Narrative fallacy (LessWrong wiki, after Taleb)](https://www.lesswrong.com/w/narrative-fallacy) — blog — ✓
+- [2.31] [Conjunction fallacy (Wikipedia)](https://en.wikipedia.org/wiki/Conjunction_fallacy) — encyclopedia — ✓
+- [2.32] Lombrozo (2007), "Simplicity and probability in causal explanation" (Cognitive Psychology) — مكرر في [1.50]
+- [2.33] Illusion of explanatory depth (Wikipedia; Rozenblit & Keil 2002) — مكرر في [1.35]
+- [2.34] [Transportation theory (psychology), Wikipedia (Green & Brock 2000)](https://en.wikipedia.org/wiki/Transportation_theory_(psychology)) — encyclopedia — ✓
+- [2.35] [Narrative paradigm (Walter Fisher), Wikipedia](https://en.wikipedia.org/wiki/Narrative_paradigm) — encyclopedia — ✓
+
+## القراءة والتحليل والتفكير النقدي ([track-3-analysis-frameworks.md](track-3-analysis-frameworks.md))
+
+- [3.1] [How to Read a Book (Adler & Van Doren)](https://en.wikipedia.org/wiki/How_to_Read_a_Book) — encyclopedia — ✓
+- [3.2] [How to Read a Book — Farnam Street](https://fs.blog/how-to-read-a-book/) — blog — ✓
+- [3.3] [S. Keshav, How to Read a Paper](https://www.cs.princeton.edu/courses/archive/fall10/cos597B/papers/howtoread-keshav.pdf) — paper — ✓
+- [3.4] [Greenhalgh, How to Read a Paper (BMJ series)](https://thebmj-frontend.bmj.com/about-bmj/resources-readers/publications/how-read-paper) — docs — ✓
+- [3.5] [Sutherland, Spiegelhalter & Burgman, Twenty tips for interpreting scientific claims (Nature 2013)](https://www.cambridgenetwork.co.uk/news/twenty-top-tips-interpreting-scientific-claims) — news — ✓
+- [3.6] [SQ3R method (Portland CC)](https://www.pcc.edu/panther-tracks/study-skills/sq3r/) — docs — ✓
+- [3.7] [PQ4R method (University of York)](https://subjectguides.york.ac.uk/study-revision/pq4r-method) — docs — ✓
+- [3.8] [How to perform a close reading (UW Odegaard Writing Center)](https://depts.washington.edu/owrc/undergraduate-students/handouts/how-to-perform-close-reading) — docs — ✓
+- [3.9] [Hermeneutics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/hermeneutics/) — encyclopedia — ✓
+- [3.10] [Hermeneutic Circle (Simply Psychology)](https://www.simplypsychology.org/hermeneutic-circle.html) — blog — ✓
+- [3.11] [Toulmin's Argument Model (Lumen / SUNY)](https://courses.lumenlearning.com/suny-jeffersoncc-englishcomp2kscopexmaster/chapter/toulmins-argument-model/) — docs — ✓
+- [3.12] [Argument map (Wikipedia)](https://en.wikipedia.org/wiki/Argument_map) — encyclopedia — ✓
+- [3.13] [Argument Maps Improve Critical Thinking (Twardy)](https://web-archive.southampton.ac.uk/cogprints.org/3008/) — paper — ⊘ (401)
+- [3.14] [Using Computer-Aided Argument Mapping to Teach Reasoning (eCampusOntario)](https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/) — book — ✓
+- [3.15] [Walton, Reed & Macagno, Argumentation Schemes (Cambridge UP)](https://assets.cambridge.org/97805218/86178/frontmatter/9780521886178_frontmatter.pdf) — book — ⊘ (000)
+- [3.16] [Fallacies (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/fallacies/) — encyclopedia — ✓
+- [3.17] [Arguments vs. Explanations (LibreTexts, Critical Thinking)](https://socialsci.libretexts.org/Courses/Cosumnes_River_College/SOC_305%3A_Critical_Thinking_in_Social_Science_(Lugo)/04%3A_What_is_an_Argument/4.05%3A_Arguments_vs._Explanations) — docs — ✓
+- [3.18] [Principle of charity (Wikipedia)](https://en.wikipedia.org/wiki/Principle_of_charity) — encyclopedia — ✓
+- [3.19] [Of Strawmen and Steelwomen (Conceptually)](https://conceptually.org/concepts/of-strawmen-and-steelwomen) — blog — ✓
+- [3.20] [Rapoport's Rules (Dennett)](https://www.rightattitudes.com/2017/06/16/rapoport-rules-criticism/) — blog — ✓
+- [3.21] [Ideological Turing Tests (LessWrong wiki)](https://lesswrong.com/w/ideological-turing-tests) — blog — ✓
+- [3.22] [Rogerian Argument (Writing Commons)](https://writingcommons.org/section/genre/argument-argumentation/rogerian-argument/) — docs — ✓
+- [3.23] [Stasis Theory (Purdue OWL)](https://owl.purdue.edu/owl/general_writing/the_writing_process/stasis_theory/stasis_for_teamwork.html) — docs — ✓
+- [3.24] [Rhetorical Analysis (Kennesaw State Writing Center)](https://writingcenter.kennesaw.edu/resources/handouts/rhetorical_analysis.php) — docs — ✗ (404)
+- [3.25] [Socratic questioning (Univ. of Michigan, Fogler & Gurmen)](https://public.websites.umich.edu/~elements/fogler%26gurmen/html/probsolv/strategy/cthinking.htm) — docs — ⊘ (403)
+- [3.26] [Paul–Elder Critical Thinking Framework (Univ. of Louisville)](https://student.louisville.edu/paul-elder-critical-thinking-framework) — docs — ⊘ (403)
+- [3.27] [Critical Thinking (Stanford Encyclopedia of Philosophy, Hitchcock)](https://plato.stanford.edu/entries/critical-thinking/) — encyclopedia — ✓
+- [3.28] Revised Bloom's Taxonomy (Iowa State CELT) — مكرر في [1.38]
+- [3.29] [Summary vs. Analysis (Reynolds CC Writing Studio)](https://reynolds.edu/writing-studio/writing-resources/summary-vs-analysis.html) — docs — ✓
+- [3.30] [Comparing and Contrasting (UNC Writing Center)](https://writingcenter.unc.edu/wp-content/uploads/sites/346/2012/09/Comparing-and-Contrasting-The-Writing-Center.pdf) — docs — ✓
+- [3.31] [How to synthesise information (University of Sheffield)](https://sheffield.ac.uk/study-skills/research/approaches/synthesise) — docs — ✓
+- [3.32] [How I Made My Life Easier By Using A Synthesis Matrix (UNC Writing Center)](https://writingcenter.unc.edu/2022/03/synthesis-matrix) — docs — ✓
+- [3.33] [First Principles (Farnam Street)](https://fs.blog/first-principles/) — blog — ✓
+- [3.34] [Munger's Worldly Wisdom (Farnam Street)](https://fs.blog/2015/09/munger-worldly-wisdom/) — blog — ✓
+- [3.35] [Five whys (Wikipedia)](https://en.wikipedia.org/wiki/Five_whys) — encyclopedia — ✓
+- [3.36] [Card, The problem with "5 whys" (BMJ Quality & Safety 2017)](https://qualitysafety.bmj.com/content/26/8/671) — paper — ⊘ (403)
+- [3.37] [Ishikawa diagram (Wikipedia)](https://en.wikipedia.org/wiki/Ishikawa_diagram) — encyclopedia — ✓
+- [3.38] [Hill's nine criteria for causal association (Hapgood)](https://hapgood.us/2012/02/03/hills-nine-criteria-for-causal-association/) — blog — ✓
+- [3.39] [Analysis of competing hypotheses (Wikipedia)](https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses) — encyclopedia — ✓
+- [3.40] [Heuer, Psychology of Intelligence Analysis (CIA)](https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf) — book — ✓
+- [3.41] [Abduction (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/ENTRIES/abduction/) — encyclopedia — ✓
+- [3.42] [Lombrozo, Explanatory Preferences and the Role of Explanation in Learning (2016)](https://cognition.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf) — paper — ✓
+- [3.43] [What is GRADE? (BMJ Best Practice)](https://bestpractice.bmj.com/info/evidence/learn-ebm/what-is-grade/) — docs — ✓
+- [3.44] [CRAAP Test (Merritt College)](https://merritt.libguides.com/CRAAP_Test) — docs — ✓
+- [3.45] [SIFT: The Four Moves (Caulfield)](https://hapgood.us/2019/06/19/sift-the-four-moves/) — blog — ✓
+- [3.46] [Wineburg & McGrew, Lateral Reading and the Nature of Expertise](https://cor.inquirygroup.org/research/lateral-reading-and-the-nature-of-expertise) — paper — ✓
+- [3.47] [How Charts Lie (Cairo, via FlowingData)](https://flowingdata.com/2019/10/25/how-charts-lie) — blog — ⊘ (403)
+- [3.48] [Pre-mortem (Wikipedia)](https://en.wikipedia.org/wiki/Pre-mortem) — encyclopedia — ✓
+
+## أصوات المجتمع: Reddit وX وHacker News والمدونات ([track-4-community.md](track-4-community.md))
+
+- [4.1] [r/explainlikeimfive, Detailed Rules (wiki mirror)](https://redlib.groet-infra.nl/r/explainlikeimfive/wiki/detailed_rules) — reddit — ✓
+- [4.2] [r/AskHistorians, Monday Methods: "So you're a historian who just…" (mirror; snippet-only)](https://reddit.rtrace.io/r/AskHistorians/comments/yopql1/monday_methods_so_youre_a_historian_who_just) — reddit — ⊘ (503)
+- [4.3] [r/AskHistorians, Rules Roundtable X: informed, complete answers (mirror; snippet-only)](https://lr.psf.lt/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the) — reddit — ✓
+- [4.4] [r/explainlikeimfive, ELI5 (or 12) the implications of Gödel's theorem (comment surfaced via HN, read through the HN discussion)](http://www.reddit.com/r/explainlikeimfive/comments/j8yq3/can_anyone_eli5_or_12_the_implications_of_g%C3%B6dels/c2a5pp4) — reddit — ✓
+- [4.5] [r/ClaudeAI, "Claude's jargon, metaphors and imaginary composite words are driving me insane" (title-level)](https://old.reddit.com/r/ClaudeAI/comments/1uok58g/claudes_self_invented_technical_jargon_complex/) — reddit — ✓
+- [4.6] [r/ChatGPT, "Here's how to get ChatGPT to stop being an overly flattering yes man" (via HN discussion)](https://old.reddit.com/r/ChatGPT/comments/1k8vomo/heres_how_to_get_chatgpt_to_stop_being_an_overly/) — reddit — ✓
+- [4.7] [r/ChatGPT, "My little sister's use of ChatGPT for homework is heartbreaking" (via HN discussion)](https://old.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/) — reddit — ✓
+- [4.8] [r/ChatGPT, professor has ChatGPT write history essays and students correct them (via HN discussion)](https://old.reddit.com/r/ChatGPT/comments/117gtom/my_friend_is_in_university_and_taking_a_history/) — reddit — ✓
+- [4.9] [r/OpenAI, "I'm so fed up by the crazy long answers ChatGPT gives every time" (snapshot)](https://reddit.sentinel-team.org/posts/1svav8r/snapshots/2026-05-01T22%3A12%3A22.78601Z) — reddit — ✓
+- [4.10] [r/ChatGPT, "How do I get GPT to stop being a kiss-ass and just give direct answers?" (snapshot)](https://reddit.sentinel-team.org/posts/1qmn32x/snapshots/2026-01-25T23%3A19%3A01.24179Z) — reddit — ✓
+- [4.11] [r/ChatGPT, "How to stop ChatGPT from adding unwanted reassurance lines?" (snapshot)](https://reddit.sentinel-team.org/posts/1peh4o7/snapshots/2025-12-05T04%3A50%3A44.160263Z) — reddit — ✓
+- [4.12] [r/ChatGPT, "telling ChatGPT to 'think like a contrarian' stops generic, diplomatic answers" (snapshot)](https://reddit.sentinel-team.org/posts/1tny118/snapshots/2026-05-29T18%3A03%3A22.19689Z) — reddit — ✓
+- [4.13] [r/ChatGPT, "fear-driven prompt suggestions that GPT 5.3 makes" (snapshot)](https://reddit.sentinel-team.org/posts/1rl3mz5/snapshots/2026-03-05T08%3A47%3A00.94892Z) — reddit — ✓
+- [4.14] [r/ClaudeAI, "I am Pissed of Claude" (9/10 vs 2/10 on the same idea; snapshot)](https://reddit.sentinel-team.org/posts/1scy4cw/snapshots/2026-04-09T16%3A41%3A00.47446Z) — reddit — ✓
+- [4.15] [r/LocalLLaMA, "I built a teacher that explains prompting so simply even my dad gets it" (snapshot)](https://reddit.sentinel-team.org/posts/1pehxid/snapshots/2025-12-05T08%3A30%3A58.532537Z) — reddit — ✓
+- [4.16] [r/ChatGPT, "Chat GPT 5.2 cannot explain the German word 'geschniegelt'" (via HN discussion)](https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/) — reddit — ✓
+- [4.17] [r/PromptEngineering, new-posts listing (mirror; snippet-only, the post itself not opened)](https://redlib.ssps.io/r/PromptEngineering/new) — reddit — ⊘ (000)
+- [4.18] [r/GPTStore, "5 dead simple ways to improve your ChatGPT experience" (snapshot)](https://reddit.sentinel-team.org/posts/1p555ya/snapshots/2026-02-21T04%3A52%3A39.112923Z) — reddit — ✓
+- [4.19] [HN, "Study mode" (OpenAI)](https://news.ycombinator.com/item?id=44725764) — hn — ✓
+- [4.20] [HN, "OpenAI's 'Study Mode' and the risks of flattery"](https://news.ycombinator.com/item?id=44745490) — hn — ✓
+- [4.21] [HN, "How I use LLMs to learn complex topics"](https://news.ycombinator.com/item?id=49234675) — hn — ✓
+- [4.22] [HN, "I'd rather read the prompt"](https://news.ycombinator.com/item?id=43888803) — hn — ✓
+- [4.23] [HN, "LLMs are making me dumber"](https://news.ycombinator.com/item?id=43990012) — hn — ✓
+- [4.24] [HN, "I taught my 8yo subduction zones with NotebookLM"](https://news.ycombinator.com/item?id=41688568) — hn — ✓
+- [4.25] [HN discussion of "Why books don't work"](https://news.ycombinator.com/item?id=24542224) — hn — ✓
+- [4.26] [HN, "How University Students Use Claude"](https://news.ycombinator.com/item?id=43633383) — hn — ✓
+- [4.27] [HN comment thread on expanding bullet points into prose](https://news.ycombinator.com/item?id=38742759) — hn — ✓
+- [4.28] [Andrej Karpathy, on implications of AI for schools](https://twitter.com/karpathy/status/1993010584175141038) — x — ✓
+- [4.29] [Andrej Karpathy, announcing Eureka Labs (AI + education)](https://twitter.com/karpathy/status/1813263734707790301) — x — ✓
+- [4.30] [Andy Matuschak, "Why books don't work"](https://andymatuschak.org/books/) — blog — ✓
+- [4.31] [Josh Bernoff, "Why books work: A rebuttal to Andy Matuschak" (snippet-only)](https://bernoff.com/blog/why-books-work-a-rebuttal-to-andy-matuschak) — blog — ✓
+- [4.32] [Grant Sanderson (3Blue1Brown), "SoME1 results"](https://www.3blue1brown.com/blog/some1-results) — blog — ✓
+- [4.33] [Ethan Mollick, "Post-Apocalyptic Education"](https://www.oneusefulthing.org/p/post-apocalyptic-education) — blog — ✓
+- [4.34] [El País interview with Ethan Mollick, "Students who use AI as a crutch don't learn anything"](https://english.elpais.com/technology/2024-10-03/ethan-mollick-analyst-students-who-use-ai-as-a-crutch-dont-learn-anything.html) — news — ✓
+- [4.35] [Andres C., "Why I find it hard to learn with AI"](https://andresc.substack.com/p/why-i-find-it-hard-to-learn-with) — blog — ✓
+- [4.36] [Popular AI, "How list formatting makes ChatGPT-style writing easy to spot"](https://www.popularai.org/p/how-list-formatting-makes-chatgpt-style-writing-easy-to-spot) — blog — ✓
+- [4.37] [OpenAI Community, "Excessive Bullet Point Formatting Issue in ChatGPT Responses"](https://community.openai.com/t/excessive-bullet-point-formatting-issue-in-chatgpt-responses/1097391) — blog — ✓
+- [4.38] [dev.to (airabbit), "Don't ask GPT to make less bullet points" (title-level)](https://dev.to/airabbit/dont-ask-gpt-to-make-less-bullet-points-3dom) — blog — ✓
+- [4.39] [Hesam Sheikh, "Learn Anything with AI and the Feynman Technique"](https://hesamsheikh.substack.com/p/learn-anything-with-ai-and-the-feynman) — blog — ✗ (404)
+- [4.40] [Tom's Guide, "This viral ChatGPT prompt can teach you anything"](https://www.tomsguide.com/ai/this-viral-chatgpt-prompt-can-teach-you-anything-and-im-officially-hooked) — news — ✓
+- [4.41] [Northeastern University, "Using Claude Learning Mode to Study"](https://learning.northeastern.edu/ai-student-guides-using-claude-learning-mode-to-study) — blog — ✓
+- [4.42] [Case Cub, "Is ChatGPT good for law school?"](https://www.casecub.com/blog/is-chatgpt-good-for-law-school) — blog — ✓
+- [4.43] [The Register, "Claude Code's copious coddling confounds"](https://www.theregister.com/2025/08/13/claude_codes_copious_coddling_confounds/) — news — ✓
+
+## منتجات التعليم بالذكاء الاصطناعي وأبحاثه ومنظومة المهارات ([track-5-ai-tutoring-landscape.md](track-5-ai-tutoring-landscape.md))
+
+- [5.1] [Introducing Claude for Education (Learning mode)](https://www.anthropic.com/news/introducing-claude-for-education) — blog — ✓
+- [5.2] [Anthropic Education Report: How university students use Claude](https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude) — paper — ✓
+- [5.3] [Anthropic Education Report: How educators use Claude (InfoDocket summary)](https://www.infodocket.com/2025/08/26/just-released-anthropic-education-report-how-educators-use-claude/) — news — ✓
+- [5.4] [Claude Code docs: Output styles (Explanatory / Learning)](https://code.claude.com/docs/en/output-styles) — docs — ✓
+- [5.5] [OpenAI: Introducing study mode in ChatGPT](https://openai.com/index/chatgpt-study-mode/) — blog — ⊘ (403)
+- [5.6] [Simon Willison: OpenAI introducing study mode (system prompt)](https://simonwillison.net/2025/Jul/29/openai-introducing-study-mode) — blog — ✓
+- [5.7] [Google: LearnLM technical report (blog)](https://blog.google/products-and-platforms/products/education/learnlm-technical-report/) — blog — ✓
+- [5.8] [Towards Responsible Development of Generative AI for Education (LearnLM-Tutor, arXiv 2407.12687)](https://arxiv.org/html/2407.12687v4) — paper — ✓
+- [5.9] [Maginative: Google launches Guided Learning for Gemini](https://www.maginative.com/article/google-launches-guided-learning-for-gemini-joining-the-ai-tutor-arms-race/) — news — ✓
+- [5.10] [Khan Academy's 7-step approach to prompt engineering for Khanmigo](https://blog.khanacademy.org/khan-academys-7-step-approach-to-prompt-engineering-for-khanmigo) — blog — ✓
+- [5.11] [KDnuggets: The ultimate guide to learning anything with NotebookLM](https://kdnuggets.com/the-ultimate-guide-to-learning-anything-with-notebooklm) — blog — ✓
+- [5.12] [RAG: Source-Grounding Does Not Prevent Hallucinations in NotebookLM (Zenodo)](https://zenodo.org/records/18043672) — paper — ⊘ (000)
+- [5.13] [Elicit: How we evaluated Elicit Reports](https://elicit.com/blog/elicit-reports-eval) — blog — ✓
+- [5.14] [Aaron Tay: A 2025 deep dive of Consensus, promises and pitfalls](https://aarontay.substack.com/p/a-2025-deep-dive-of-consensus-promises) — blog — ✓
+- [5.15] [Bastani et al., Generative AI without guardrails can harm learning (PNAS 2025)](https://ideas.repec.org/a/nas/journl/v122y2025pe2422633122.html) — paper — ✓
+- [5.16] [Wharton Knowledge: Without guardrails, generative AI can harm education](https://knowledge.wharton.upenn.edu/article/without-guardrails-generative-ai-can-harm-education) — news — ✓
+- [5.17] [Kestin et al., AI tutoring outperforms in-class active learning (Scientific Reports 2025, RCT)](https://scale.stanford.edu/ai/repository/ai-tutoring-outperforms-class-active-learning-rct-introducing-novel-research-based) — paper — ✓
+- [5.18] [iatroX: What the Harvard AI tutor trial really showed](https://www.iatrox.com/blog/harvard-ai-tutor-trial-what-it-showed-question-banks) — blog — ✓
+- [5.19] [Aslanov, Felmer & Guerra, Overconfidence without Understanding? Illusion of understanding in AI-assisted explanations (CogSci 2026)](https://escholarship.org/uc/item/8cr599sr) — paper — ✓
+- [5.20] [Lee et al., The Impact of Generative AI on Critical Thinking (CHI 2025, Microsoft Research/CMU)](https://advait.org/files/lee_2025_ai_critical_thinking_survey.pdf) — paper — ✓
+- [5.21] [MIT Media Lab: Your Brain on ChatGPT, accumulation of cognitive debt](https://www.media.mit.edu/publications/your-brain-on-chatgpt/) — paper — ✓
+- [5.22] [Anthropic: Towards understanding sycophancy in language models](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models) — paper — ✓
+- [5.23] [Peters & Chin-Yee, Generalization bias in LLM summarization of scientific research (Royal Society Open Science; alphaXiv overview)](https://www.alphaxiv.org/overview/2504.00025) — paper — ✓
+- [5.24] [Hallucinate at the Last in long response generation (arXiv 2505.15291)](https://arxiv.org/html/2505.15291v3) — paper — ✓
+- [5.25] [Chen et al., Socratic and Narrative approaches in LLMs for pedagogical purposes (TeaPT, arXiv 2509.12107)](https://arxiv.org/pdf/2509.12107v1) — paper — ✓
+- [5.26] [Tio, Sinha & Varakantham, Hey Chat, Can You Teach Me? Structuring Socratic dialogue in the wild (arXiv 2606.11744)](https://arxiv.org/pdf/2606.11744) — paper — ✓
+- [5.27] [Wang et al., Beyond Direct Answering: Educational LLMs as Socratic guides (arXiv 2607.22996)](https://arxiv.org/pdf/2607.22996) — paper — ✓
+- [5.28] [The Learning Agency: Co-designing LLM tutors, five takeaways](https://the-learning-agency.com/the-cutting-ed/article/co-designing-llm-tutors-for-student-success-five-key-takeaways-and-a-roadmap-for-developers/) — blog — ✓
+- [5.29] [Mollick & Mollick, Assigning AI: Seven approaches for students, with prompts (SSRN)](https://papers.ssrn.com/abstract=4475995) — paper — ⊘ (403)
+- [5.30] [Mollick AI-Tutor prompt (Open WebUI copy)](https://openwebui.com/m/constable12/gpt-4o-mollick-prompt-ai-tutor) — docs — ⊘ (502)
+- [5.31] [Anthropic Engineering: Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) — blog — ✓
+- [5.32] [Claude Docs: Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) — docs — ✓
+- [5.33] [anthropics/skills (GitHub)](https://github.com/anthropics/skills) — github — ✓
+- [5.34] [travisvn/awesome-claude-skills (GitTrend mirror)](https://gittrend.io/repo/travisvn/awesome-claude-skills) — github — ✓
+- [5.35] [danielmiessler/fabric (GitHub)](https://github.com/danielmiessler/fabric) — github — ✓
+- [5.36] [Fabric skill index (agentskills.so)](https://agentskills.so/skills/danielmiessler-personal_ai_infrastructure-fabric) — docs — ✓
+- [5.37] [NeuronFeed: Socratic AI tutors outperform prompt-training approach in programming education](https://neuronfeed.com/news/socratic-ai-tutors-outperform-prompt-training-approach-in-programming-education-) — news — ✓
+- [5.38] [CASRAI guide: Perplexity AI for research](https://www.casrai.org/guides/perplexity-ai-for-research) — blog — ✓
+
+## تراث الشرح العربي والشرح بحسب المجال ([track-6-arabic-and-domains.md](track-6-arabic-and-domains.md))
+
+- [6.1] [المتون والشروح والحواشي والتقريرات في التأليف النحوي](https://midad.com/article/215073) — blog — ✓
+- [6.2] [في الشرح المنهجي للمتون](https://midad.com/article/222907) — blog — ✓
+- [6.3] [من فوائد الحواشي](https://midad.com/article/222041) — blog — ✓
+- [6.4] [سؤال: ما منهج الشهاب الخفاجي على تفسير البيضاوي؟](https://mtafsir.net/threads/%D8%B3%D8%A4%D8%A7%D9%84-%D9%85%D8%A7-%D9%85%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D8%AE%D9%81%D8%A7%D8%AC%D9%8A-%D8%B9%D9%84%D9%89-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D9%88%D9%8A-%D8%9F%D8%9F.40207/latest) — turath — ✓
+- [6.5] [الفنقلة (فإن قيل… قلنا)](https://tafsir.net/article/5212.pdf) — paper — ✗ (404)
+- [6.6] [بذور اللسانيات التعليمية في التراث العربي](https://e-biblio.univ-mosta.dz/items/58f535fc-0e8a-4e32-84ee-034f91949323) — paper — ✓
+- [6.7] [الفصل والوصل (محاضرة، أ.د. سعد التميمي)](https://www.uomustansiriyah.edu.iq/media/lectures/9/9_2020_05_13!11_02_17_AM.docx) — paper — ✓
+- [6.8] [وظيفة الفصل والوصل في القرآن الكريم: دراسة بلاغية في سورة التوبة](https://archives.univ-eloued.dz/items/df2f4d61-cb4d-480d-97df-d217f4058150/full) — paper — ✓
+- [6.9] [السبك والحبك في لسانيات النص](https://jfgt.journals.ekb.eg/article_444302.html) — paper — ⊘ (429)
+- [6.10] [الاتساق النصي عند هاليداي ورقية حسن](https://ubjh.ub.edu.sa/home/vol4/iss1/6) — paper — ⊘ (000)
+- [6.11] [الفرق بين التفسير والتأويل](https://www.alukah.net/alaqeel/1/52643/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d8%b3%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d8%aa%d8%a3%d9%88%d9%8a%d9%84/) — blog — ✓
+- [6.12] [المستطرف في كل فن مستظرف — باب البيان](https://shamela.ws/book/23802/45) — turath — ✓
+- [6.13] [تعريف السرد لغة واصطلاحًا](https://sotor.com/تعريف-السرد-لغة-واصطلاحًا/) — encyclopedia — ✓
+- [6.14] [نظرية أوزبل: التعلم القائم على المعنى](https://www.uomustansiriyah.edu.iq/media/lectures/12/12_2018_12_17!09_03_17_PM.docx) — paper — ✓
+- [6.15] [فاعلية الخرائط الذهنية الإلكترونية في تنمية التحصيل وخفض العبء المعرفي](https://search.emarefa.net/detail/BIM-966629) — paper — ✓
+- [6.16] [طرق إيصال المعرفة باستخدام استراتيجيات التدريس](https://e3arabi.com/%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%88%D9%8A%D8%A9/%D8%B7%D8%B1%D9%82-%D8%A5%D9%8A%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D8%A9-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A/) — blog — ✓
+- [6.17] [التنبيهات العروضية في شرح الشاطبي على الألفية](https://bfsa.journals.ekb.eg/article_190370.html) — paper — ⊘ (429)
+- [6.18] Worked-example effect — مكرر في [1.8]
+- [6.19] [There's more to mathematics than rigour and proofs (Terence Tao)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/) — blog — ✓
+- [6.20] [On proof and progress in mathematics (Thurston)](https://arxiv.org/abs/math/9404236) — paper — ✓
+- [6.21] [About 3Blue1Brown](https://www.3blue1brown.com/about) — docs — ✓
+- [6.22] [On the Comprehension of Program Comprehension](https://neverworkintheory.org/2015/02/13/on-comprehension-of-program-comprehension.html) — paper — ✓
+- [6.23] [Measuring program comprehension: a large-scale field study with professionals](https://research.monash.edu/en/publications/measuring-program-comprehension-a-large-scale-field-study-with-pr/) — paper — ✓
+- [6.24] [The Programmer's Brain (Hermans)](https://www.manning.com/books/the-programmers-brain) — book — ✓
+- [6.25] [How to Write a Case Brief](https://docmckee.com/oer/research-tools/how-to-write-a-case-brief/) — docs — ✓
+- [6.26] [IRAC Analysis & Writing a Case Brief](https://pressbooks.uwf.edu/healthcarelaw/part/irac-analysis/) — docs — ✓
+- [6.27] [Using script theory to cultivate illness script formation and clinical reasoning](https://pmc.ncbi.nlm.nih.gov/articles/PMC4795084/) — paper — ✓
+- [6.28] [Using illness scripts to teach clinical reasoning skills to medical students](https://pubmed.ncbi.nlm.nih.gov/20373168/) — paper — ✓
+- [6.29] [Historical Thinking Concepts](https://historicalthinking.ca/historical-thinking-concepts) — docs — ✓
+- [6.30] [Close reading](https://en.wikipedia.org/wiki/Close_reading) — encyclopedia — ✓
+- [6.31] [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) — encyclopedia — ✓
+- [6.32] [Explorable Explanations (Bret Victor)](https://worrydream.com/ExplorableExplanations/) — blog — ✓
+- [6.33] [Explorable Explanations hub](https://explorabl.es/) — docs — ✓
+- [6.34] [Nicky Case](https://ncase.me/) — blog — ✓
+- [6.35] Dual-coding theory — مكرر في [1.26]
+- [6.36] [Expertise reversal effect](https://en.wikipedia.org/wiki/Expertise_reversal_effect) — encyclopedia — ✓
+- [6.37] Curse of knowledge — مكرر في [1.36]
+- [6.38] [Plain Language guides (digital.gov)](https://digital.gov/guides/plain-language) — docs — ✓
